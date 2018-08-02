@@ -207,6 +207,7 @@ text-align: center;
   }
   .leftChild{
   width:40%;
+    height:50%;
   border:2px solid #ddd;
   padding: 2%;
   margin: 2%;
